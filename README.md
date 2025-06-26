@@ -53,3 +53,10 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Developed by
+
+- [Edgar Ferreira](https://www.github.com/Edegare)
+- [Fernando Pires](https://github.com/ferjpires)
+- [Sara Silva](https://github.com/sarasilv-a)
+- [Zita Duarte](https://github.com/zitamduarte)
